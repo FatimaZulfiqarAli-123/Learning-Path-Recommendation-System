@@ -1,0 +1,21 @@
+course_id,course_name,category,difficulty,duration_hours
+C001,Python Basics,Programming,Beginner,5
+C002,Advanced Python,Programming,Advanced,8
+C003,SQL Fundamentals,Data,Beginner,6
+C004,Data Visualization,Data,Beginner,5
+C005,Statistics,Statistics,Intermediate,7
+C006,Machine Learning Basics,AI,Intermediate,10
+C007,Advanced Machine Learning,AI,Advanced,12
+C008,Deep Learning,AI,Advanced,15
+C009,NLP Fundamentals,AI,Advanced,12
+C010,Computer Vision,AI,Advanced,14
+C011,Data Structures,Programming,Intermediate,8
+C012,Algorithms,Programming,Intermediate,10
+C013,Git and GitHub,Tools,Beginner,4
+C014,Cloud Computing,Cloud,Intermediate,10
+C015,Data Engineering,Data,Advanced,14
+C016,Power BI,Analytics,Beginner,6
+C017,Excel Analytics,Analytics,Beginner,5
+C018,Communication Skills,Soft Skills,Beginner,4
+C019,Project Management,Management,Intermediate,8
+C020,Cybersecurity Basics,Security,Beginner,7
